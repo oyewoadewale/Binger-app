@@ -17,7 +17,3 @@ AppDatabase - This is a RoomDatabase responsible for local storage of favorite t
 ResponseModels - Data model objects, that model json responses from TMDB server
 FavoriteShow - Data model object for local storage of favorite tv shows
 
-
-# Screen shots
-
-![capture](https://user-images.githubusercontent.com/38193029/48922743-299f7580-eea9-11e8-87b5-f20550062dd7.JPG)
