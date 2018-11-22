@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Binger</string>
+    <string name="overview">This is the man that first walked round the world, what an amazing record set! Ain\'t it awesome?</string>
+    <string name="menu_text1">Sort by Popularity</string>
+    <string name="menu_text2">Sort by Airing today</string>
+    <string name="activity_details_name">Tv show Details</string>
+    <string name="tap_to_refresh">Tap to Refresh</string>
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="rating">Rating:</string>
+    <string name="favourite">Mark as Favourite</string>
+    <string name="review_title">Reviews</string>
+    <string name="overview1">Overview</string>
+    <string name="trailers">Trailers</string>
+    <string name="favourite_menu">Favourite</string>
+    <string name="reviews">Reviews</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="show_more_reviews">View more reviews</string>
+    <string name="view_more_trailers">View more trailers</string>
+    <string name="share">Share trailer</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_favmovies"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ProgressBar
+        android:id="@+id/loading_indicator_fav"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="200dp"
+        android:paddingBottom="200dp"
+        android:paddingLeft="80dp"
+        android:paddingRight="80dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:indeterminateBehavior="repeat"
+        android:background="#80303F9F"
+        android:visibility="invisible" />
+
+</FrameLayout>
